@@ -6,20 +6,20 @@
 
 ## 🚀 About Me  
 - 🔭 Currently working on: **AI Reminder Chatbot** (AI + productivity assistant)  
-- 🌱 Learning: Advanced **React**, **MongoDB**, and **System Design**  
+- 🌱 Learning: Advanced **React** and **System Design**  
 - 💡 Interested in: **AI-powered applications, Web Apps, Databases**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) | [Email](mailto:YOUR-EMAIL)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/telukalanaveenasahu) | [Email](mailto:naveenasahu05@gmail.com)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Java]
-![JavaScript]
-![React]
-![MySQL]
-![Git]
-![GitHub] 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
